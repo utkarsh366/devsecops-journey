@@ -1,0 +1,3 @@
+
+How are you? 
+This is a test file ment to test the linux in my commmand system. 
